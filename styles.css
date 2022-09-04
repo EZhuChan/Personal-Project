@@ -1,12 +1,16 @@
 body {
-    background-color: olive;
+    background-color: rgb(187, 241, 255);
 }
 h1 {
-    background-color: blue;
+    text-align: center;
+    padding-top: 50%;
 }
 h3 {
     background-color: aliceblue;
 }
 a {
     color: antiquewhite;
+}
+button {
+    margin-left: 50%;
 }
